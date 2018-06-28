@@ -1,0 +1,3 @@
+[submodule "AkkaThrift"]
+	path = AkkaThrift
+	url = https://github.com/sunshangpp/AkkaThrift
